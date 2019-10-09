@@ -4,6 +4,7 @@
 //  Lab Lecture: Wednesday 9:40-10:30
 //  Description: Learn how to use github
 
+// GitHub Assignment Url : https://github.com/HarrisMustic/cse360assign2
 package cse360assign2;
 
 public class AddingMachine {
